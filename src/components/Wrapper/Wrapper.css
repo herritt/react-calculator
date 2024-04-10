@@ -1,0 +1,9 @@
+.wrapper {
+	background-color: aqua;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 1em;
+}

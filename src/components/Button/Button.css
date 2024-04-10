@@ -1,0 +1,25 @@
+button {
+	background-color: #333;
+	border: none;
+	border-radius: 0.5em;
+	color: white;
+	font-size: 1em;
+	padding: 0.5em 0.25em;
+	text-align: center;
+	width: 100%;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #555;
+}
+
+.equals {
+	background-color: #f39c12;
+	color: black;
+	grid-column: 3 / 5;
+}
+
+.equals:hover {
+	background-color: #f1c40f;
+}
